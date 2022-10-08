@@ -1,6 +1,5 @@
-# ecommercecourse
+# ecommerce Auth screens
 
-Ecommerce App
 
 ## Getting Started
 
